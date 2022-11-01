@@ -2,7 +2,7 @@
 id: dsspzsmzvb1cn7kjb0wi3ab
 title: Tips and Tricks for Writing Fast and Maintainable Front-End Tests
 desc: ''
-updated: 1667331089631
+updated: 1667331759102
 created: 1667327987233
 ---
 
@@ -83,4 +83,3 @@ Write a good error for when a test fails.
 
 Notify people that can fix the problem.
 Tags for the specific teams that are applicable.
-
