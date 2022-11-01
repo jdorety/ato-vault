@@ -61,4 +61,3 @@ Consistently style all commonly used elements
 Clearly label required fields in forms
 
 Be sure to include aria-alerts for dynamic / updating information on a page.
-
