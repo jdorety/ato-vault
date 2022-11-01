@@ -7,4 +7,3 @@ created: 1667312948612
 ---
 # All Things Open 2022
 
-[[root.talks.modern-community-management]]
