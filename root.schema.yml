@@ -2,6 +2,10 @@ version: 1
 imports: []
 schemas:
   - id: root
-    children: []
+    children: [talks]
     title: root
+    parent: root
+  - id: talks
+    children: []
+    title: talks
     parent: root
