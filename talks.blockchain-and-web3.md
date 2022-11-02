@@ -2,7 +2,7 @@
 id: xibwg3mxcwt1nfu7dnt76bn
 title: Blockchain and Web3
 desc: ''
-updated: 1667411431312
+updated: 1667412179102
 created: 1667411018385
 ---
 
@@ -14,4 +14,15 @@ IBM
 
 Blockchain is more than Bitcoin.
 It holds the promise to be a platform for trustworthy computing.
+
+Supply-chain tracing. (We do have demo for this. Does it need updating?).
+
+## Self-Sovereign Identity
+
+You're in charge of your digital identity.
+Decentralized identity can effectively vanquish honey pots.
+Less tracking.
+No unnecessary information (zero knowledge proof).
+
+(He's using @BrianPlatz's example of proving you're eligible to drink in a bar)
 
