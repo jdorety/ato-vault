@@ -2,7 +2,7 @@
 id: xibwg3mxcwt1nfu7dnt76bn
 title: Blockchain and Web3
 desc: ''
-updated: 1667412179102
+updated: 1667413069332
 created: 1667411018385
 ---
 
@@ -26,3 +26,6 @@ No unnecessary information (zero knowledge proof).
 
 (He's using @BrianPlatz's example of proving you're eligible to drink in a bar)
 
+## Permissionless Blockchain
+
+Public keys are psuedo-anonymous.
