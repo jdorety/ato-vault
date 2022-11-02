@@ -1,13 +1,16 @@
 ---
-id: w06q51pqxzp1kmou4m7j2pp
+id: uy6f6d4dk2ctl6na84dxaiz
 title: Inclusive Design
 desc: ''
 updated: 1667314344327
 created: 1667314344327
 ---
 
-Maria Lamardo
-\- CVS
+[Maria Lamardo](https://twitter.com/marialamardo)
+![Maria Lamardo](images/aeda506eaddbe70925bb44bd3bfe59a4d00215274b7ce4e80314fb3c0d26fa43.png)  
+Head of Accessibility Training
+
+CVS Health
 ## Advancing Inclusivity Through Accessibility
 
 ### Inclusivity

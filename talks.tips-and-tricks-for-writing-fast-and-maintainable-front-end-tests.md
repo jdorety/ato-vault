@@ -1,5 +1,5 @@
 ---
-id: dsspzsmzvb1cn7kjb0wi3ab
+id: x9s8bdi35nprr4ktrzppgi6
 title: Tips and Tricks for Writing Fast and Maintainable Front-End Tests
 desc: ''
 updated: 1667331759102
@@ -8,7 +8,6 @@ created: 1667327987233
 
 [Gleb Bahmutov](glebbahmutov.com)
 ![Pic of Gleb](images/d9895f21f22aa314ea369817e1d89f8544d2f97c3ef92306301bf8c7faad0455.png)  
-
 Senior Director of Engineering,
 MercariUS
 

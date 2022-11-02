@@ -1,11 +1,12 @@
 ---
-id: slqiffagva83oycsqucdcai
-title: IOT, JS, and Beer Brewing
+id: 9k6rla7yvuhexq1ym1iidhe
+title: 'IOT, JS, and Beer Brewing'
 desc: ''
 updated: 1667327198313
 created: 1667324690109
 ---
 
+![Joel Lord](images/127952e0c7dbf2753ad935a27889ec7c3a28e9a22adcc8c9068db0ec969a4f29.png)  
 Joel Lord, MongoDb [Twitter](https://twitter.com/joel_lord) & brewmaster [Brainbrew](https://brainbrew.ca)
 
 ## IoT and JS

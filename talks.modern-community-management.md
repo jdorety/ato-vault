@@ -1,10 +1,16 @@
 ---
-id: 8jov8lu3rt2wgr1jw7ciqyo
+id: j77izj8t50g73a23orhpsxd
 title: Modern Community Management
 desc: ''
 updated: 1667313390672
 created: 1667313169388
 ---
+
+![Jen Wike Huger](images/2e22f7682558b200f5e78918724696f9a228b91258ca578c9f93f199c6145988.png)
+Jen Wike Huger
+
+VP of Marketing -
+Profian
 
 ## Working with Open Source Communities
 

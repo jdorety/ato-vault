@@ -1,5 +1,5 @@
 ---
-id: qmsq8kmntaxmzm7b2e9xcs0
+id: 46afo9aaps17oml3bjvq6mu
 title: Approaching Open Source Documentation the Right Way
 desc: ''
 updated: 1667316226330
@@ -7,6 +7,9 @@ created: 1667316226330
 ---
 
 @Uduak-Obong-Eren
+![Uduak Obong-Eren](images/9335c00be331a71b3d58c331fe76a2aeeaba8499ae16331060481b6a6ac12e22.png)
+Senior Software Engineer
+
 
 Software engineers are some of the biggest users of documentation.
 Software engineers don't usually enjoy writing documentation.
