@@ -2,11 +2,17 @@
 id: 7dlc6gfmq0crz37jt016inz
 title: Full Stack Developer Experience
 desc: ""
-updated: 1667409373677
+updated: 1667410415176
 created: 1667407720147
 ---
 
 Grow your developer community by building an open and easy to use platform
+
+![picture 4](images/cd2e54675f7d36c5a2c71b5623727444631477698e6267846335c12396548571.png)  
+[Eric Thiel](https://www.ericthiel.com/)
+
+Global Head, Developer Experience -
+Cisco Systems
 
 ## What it Developer Experience?
 
