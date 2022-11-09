@@ -7,7 +7,9 @@ created: 1667324690109
 ---
 
 ![Joel Lord](images/127952e0c7dbf2753ad935a27889ec7c3a28e9a22adcc8c9068db0ec969a4f29.png)  
-Joel Lord, MongoDb [Twitter](https://twitter.com/joel_lord) & brewmaster [Brainbrew](https://brainbrew.ca)
+[Joel Lord](https://twitter.com/joel_lord)
+
+MongoDb & brewmaster [@Brainbrew](https://brainbrew.ca)
 
 ## IoT and JS
 

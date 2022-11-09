@@ -6,8 +6,10 @@ updated: 1667316226330
 created: 1667316226330
 ---
 
-@Uduak-Obong-Eren
 ![Uduak Obong-Eren](images/9335c00be331a71b3d58c331fe76a2aeeaba8499ae16331060481b6a6ac12e22.png)
+
+Uduak-Obong-Eren
+
 Senior Software Engineer
 
 
